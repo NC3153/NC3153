@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NC3153.
 - 🌱 I completed Git/GitHub training for my Technical Writing skillset.
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: No number before 1,000 contains the letter A. 🙂
 
 <!---
